@@ -1,0 +1,113 @@
+
+{
+    "main": {
+      "name": "Nick Morihisa",
+      "occupation": "Open to work",
+      "description": "Full Stack Developer and Progressive Political Campaign Consultant",
+      "image": "IG_Sonny.jpeg",
+      "bio": "My name is Nick, I'm a Full Stack ReactJS Developer. Currently I'm working on learning Python and Web3 languages. I just finished Columbia University's full stack coding bootcamp and I'm open to work",
+      "contactmessage": "Get in touch with me to for anything you'd like to discuss.",
+      "email": "nmorihisa@gmail.com",
+      "phone": "(555) 123-4567",
+      "address": {
+        "street": "123 Fake Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001"
+      },
+      "GitHub Profile": "https://github.com/M0byNick",
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/nick.morihisa/",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/nmorihisa/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/nmorihisa/",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/nmorihisa",
+          "className": "fa fa-twitter"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+      "education": [
+        {
+          "school": "Harvard College",
+          "degree": "A.B. in Economics",
+          "graduated": "May 2018",
+          "description": "Secondary in Theatre, Dance, and Media"
+        }
+      ],
+      "work": [
+        {
+          "company": "TBD",
+          "title": "TBD",
+          "years": "TBD",
+          "description": "TBD"
+        }
+      ],
+      "skills": [
+        {
+          "name": "ReactJs",
+          "level": "85%"
+        },
+        {
+          "name": "CSS",
+          "level": "75%"
+        },
+        {
+          "name": "Git",
+          "level": "70%"
+        },
+        {
+          "name": "Figma && Adobe XD",
+          "level": "60%"
+        },
+        {
+          "name": "HTML5",
+          "level": "90%"
+        },
+        {
+          "name": "MongoDB",
+          "level": "85%"
+        },
+        {
+          "name": "GraphQL",
+          "level": "65%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "TBD",
+          "category": "TBD",
+          "image": "TBD",
+          "url": "TBD"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user": "Kareem Abdul Jabbar"
+        },
+        {
+          "text": "That Nick Morihisa must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user": "Steve Wozniak... impersonator"
+        }
+      ]
+    }
+  }
