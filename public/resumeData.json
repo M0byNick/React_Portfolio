@@ -1,10 +1,9 @@
-
 {
     "main": {
       "name": "Nick Morihisa",
       "occupation": "Open to work",
       "description": "Full Stack Developer and Progressive Political Campaign Consultant",
-      "image": "TBD",
+      "image": "NMLinkedinProfilePic.jpg",
       "bio": "My name is Nick, I'm a Full Stack ReactJS Developer. Currently I'm working on learning Python and Web3 languages. I just finished Columbia University's full stack coding bootcamp and I'm open to work",
       "contactmessage": "Get in touch with me to for anything you'd like to discuss.",
       "email": "nmorihisa@gmail.com",
